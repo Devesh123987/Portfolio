@@ -32,9 +32,9 @@
 
 section {
   background-image:
-    url("../images/Header bg@2x.png"),
+    url("./image/Header bg@2x.png"),
     
-  background-position:
+  background-position:{
     19px 79px,
     294px 68px,
     323px 102px,
@@ -46,6 +46,7 @@ section {
     240px 507px,
     357px 392px,
     106px 497px;
+  }
   background-repeat: no-repeat;
   display: flex;
   flex-direction: column;

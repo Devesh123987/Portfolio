@@ -86,3 +86,8 @@ ul li {
   margin: 12px 0;
   padding-left: 20px;
 }
+
+
+.work-section .work img {
+  padding: 16px;
+}

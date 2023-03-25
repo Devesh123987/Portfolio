@@ -230,6 +230,11 @@ ul li {
   color: #fff;
 }
 
+.project-button:active {
+  background: #2230d2;
+  color: #fff;
+}
+
 
 
 

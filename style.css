@@ -102,3 +102,12 @@ ul li {
   background-color: #e5e5e5;
 }
 
+.work {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #dfe1e6;
+  border-radius: 10px;
+  background-color: #fff;
+  margin-top: 70px;
+}
+

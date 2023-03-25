@@ -225,6 +225,12 @@ ul li {
   margin-left: 20px;
 }
 
+.project-button:hover {
+  background: #6070ff;
+  color: #fff;
+}
+
+
 
 
 

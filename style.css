@@ -197,6 +197,15 @@ ul li {
   padding-left: 20px;
 }
 
+.skills li {
+  background: #ebebff;
+  border-radius: 10px;
+  color: #6070ff;
+  font-size: 12px;
+  border: 1px solid #ebebff;
+  padding: 4px 12px;
+}
+
 
 
 

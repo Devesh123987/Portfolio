@@ -45,10 +45,10 @@ After you're finished please remove all the comments and instructions!
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
+- [📖 About the Project](The project is in development state for Portfolio mobile first)
+  - [🛠 Built With](HTML CSS)
     - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
+    - [Key Features](Navigation Bar and Introduction)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -57,8 +57,8 @@ After you're finished please remove all the comments and instructions!
   - [Usage](#usage)
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
+- [👥 Authors](Devesh Srivastava)
+- [🔭 Future Features](About page portfolio destails page)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)

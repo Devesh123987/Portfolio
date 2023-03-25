@@ -348,6 +348,14 @@ ul li {
   background-color: #f7f7f8;
 }
 
+.list-items p {
+  font-weight: 500;
+  line-height: 20px;
+  font-size: 15px;
+  color: #253858;
+  font-style: normal;
+}
+
 
 
 

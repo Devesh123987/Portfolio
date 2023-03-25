@@ -235,6 +235,10 @@ ul li {
   color: #fff;
 }
 
+.project-button:disabled {
+  background: #5e6c84;
+}
+
 
 
 

@@ -316,6 +316,14 @@ ul li {
   background: #5e6c84;
 }
 
+.language {
+  display: flex;
+  list-style: none;
+  gap: 150px;
+  margin-left: 20px;
+}
+
+
 
 
 

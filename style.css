@@ -19,3 +19,10 @@ html {
   align-items: center;
   background-color: #fff;
 }
+
+.nav-bar a {
+  text-decoration: none;
+  line-height: 20px;
+  font-size: 18px;
+  font-weight: 700;
+}

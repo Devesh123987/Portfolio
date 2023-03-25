@@ -67,15 +67,15 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Portfolio: setup and mobile first] <a name="Portfolio: setup and mobile first"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[Portfolio: setup and mobile first]** is a...
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="HTML CSS"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+### Tech Stack <a name="HTML CSS"></a>
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
@@ -106,9 +106,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Navigation Bar]**
+- **Introduction Section]**
+- **[Social Media Links]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,7 +118,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](Coming soon)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,41 +144,20 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
-```sh
+Clone this repository to your desired folder
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+  git clone git@github.com:/Devesh123987/Portfolio
+
 
 ### Install
 
 Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
+-mkdir .github/workflows -touch .hintrc -touch .stylelintrc.json
 
 ### Usage
 
 To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+cd Mobile-Portfolio run code
 
 ### Run tests
 
@@ -208,7 +187,7 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors <a name="Devesh Srivastava"></a>
 
 > Mention all of the collaborators of this project.
 
@@ -218,21 +197,21 @@ Example:
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
+<!--👤 **Author2**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
-## 🔭 Future Features <a name="future-features"></a>
+## 🔭 Future Features <a name="Project Discription Page"></a>
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
+<!--- [ ] **[About ]**
 - [ ] **[new_feature_2]**
 - [ ] **[new_feature_3]**
 

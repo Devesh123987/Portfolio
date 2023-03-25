@@ -239,6 +239,26 @@ ul li {
   background: #5e6c84;
 }
 
+.about-me {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  justify-content: center;
+  margin-top: 40px;
+  border: 1px solid #e5e5e5;
+  border-top-right-radius: 60px;
+  padding-top: 100px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
+
+.about-header {
+  font-size: 40px;
+  line-height: 52px;
+  font-weight: 700;
+  color: #172b4d;
+}
+
 
 
 

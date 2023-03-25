@@ -128,3 +128,33 @@ ul li {
   padding-left: 20px;
 }
 
+.dot {
+  width: 8px;
+  height: 8px;
+  background-color: #c1c7d0;
+  border-radius: 50%;
+}
+
+.work .works {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+.back-end {
+  color: #7a869a;
+  font-size: 13px;
+  line-height: 16px;
+  font-weight: 600;
+  font-style: normal;
+  width: 88px;
+  height: 16px;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+
+
+

@@ -330,6 +330,13 @@ ul li {
   color: #000;
 }
 
+.language-list {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  padding: 20px;
+}
+
 
 
 

@@ -378,6 +378,18 @@ ul li {
   background-color: #dfe1e6;
 }
 
+.gained-skill {
+  display: flex;
+  list-style: none;
+  gap: 220px;
+  align-items: center;
+  margin-left: 50px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+
+
 
 
 

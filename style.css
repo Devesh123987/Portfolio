@@ -356,6 +356,16 @@ ul li {
   font-style: normal;
 }
 
+.frameworks {
+  display: flex;
+  list-style: none;
+  gap: 150px;
+  align-items: center;
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+
+
 
 
 

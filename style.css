@@ -337,6 +337,18 @@ ul li {
   padding: 20px;
 }
 
+.list-items {
+  display: flex;
+  align-items: center;
+  border: 1px solid #f7f7f9;
+  margin: 12px 0;
+  border-radius: 8px;
+  gap: 16px;
+  padding: 10px;
+  background-color: #f7f7f8;
+}
+
+
 
 
 

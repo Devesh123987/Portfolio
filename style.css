@@ -165,6 +165,32 @@ ul li {
   font-family: 'Poppins', sans-serif;
 }
 
+.canopy {
+  height: 16px;
+  width: 55px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 13px;
+  line-height: 16px;
+  font-weight: 600;
+  font-style: normal;
+  color: #344563;
+  margin-right: 5px;
+}
+
+.paragraph {
+  font-size: 15px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  color: #344563;
+  width: 295px;
+  height: 76px;
+  margin: 12px 0;
+  padding-left: 20px;
+}
+
+
 
 
 

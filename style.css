@@ -190,6 +190,13 @@ ul li {
   padding-left: 20px;
 }
 
+.skills {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding-left: 20px;
+}
+
 
 
 

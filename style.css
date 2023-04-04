@@ -177,7 +177,7 @@ ul li {
 }
 
 .skills {
-  display: flex;
+  display: inline;
   align-items: center;
   gap: 10px;
   padding-left: 20px;

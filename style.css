@@ -162,3 +162,18 @@ introduction-1 {
   flex-grow: 0;
   margin-left: -25px;
 }
+
+.tonic{
+  width: 295px;
+  height: 36px;
+  margin-top: 0;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 44px;
+  color: #172b4d;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}

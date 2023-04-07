@@ -119,4 +119,13 @@ introduction-1 {
   order: 3;
 }
 
+.twitter:hover,
+.linkindin:hover,
+.github:hover,
+.medium:hover,
+.angellist:hover {
+  color: #505f79;
+  opacity: 0.5;
+}
+
 

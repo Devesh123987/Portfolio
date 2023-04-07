@@ -1011,6 +1011,25 @@ form{
     width: 100%;
   }
 
+  form {
+    width: 100%;
+  }
+
+  #name {
+    width: 27rem;
+    border-radius: 0;
+  }
+
+  #email {
+    width: 27rem;
+    border-radius: 0;
+  }
+
+  .text {
+    width: 27rem;
+    border-radius: 0;
+  }
+
 
 
 

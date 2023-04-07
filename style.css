@@ -223,7 +223,7 @@ body {
   list-style: none;
   order: 2;
   margin-top: 50px;
-  }
+}
 
 .html {
   display: flex;
@@ -514,7 +514,7 @@ body {
   margin-left: 40px;
 }
 
-.html-logo { 
+.html-logo {
   display: flex;
   flex-direction: row;
   align-items: center;

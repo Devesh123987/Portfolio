@@ -191,12 +191,11 @@ body {
 .frame2-img {
   width: 280px;
   height: 32px;
-  padding: 0rem;
   margin-top: -30px;
   margin-bottom: 0;
   margin-right: 25;
   margin-left: -7px;
- }
+}
 
 .description {
   width: 295px;
@@ -224,9 +223,9 @@ body {
   list-style: none;
   order: 2;
   margin-top: 50px;
-  margin-bottom: 0;
+  margin-bottom: 0px;
   margin-left: 0px;
-  margin-right: 0;
+  margin-right: 0px;
 }
 
 .html {
@@ -297,7 +296,7 @@ body {
   bottom: 10px;
   margin-left: 0px;
   margin-top: 50px;
-  padding: 0;
+  padding: 0px;
   gap: 10px;
   letter-spacing: 0.48px;
   line-height: 24px;
@@ -370,7 +369,7 @@ body {
   padding-top: 10px;
   margin-top: -20px;
   line-height: 24px;
-  flex-grow: 0;
+  flex-grow: 0px;
   overflow-x: hidden;
   color: #7f8cff;
 }
@@ -408,7 +407,6 @@ body {
   background-color: #fff;
   border-radius: 8px;
   bottom: 10px;
-  margin-left: 0px;
   margin-right: -25px;
   margin-top: 10px;
   padding: 12px;
@@ -470,7 +468,7 @@ body {
   height: 248.15px;
 }
 
-.languages-list2 { 
+.languages-list2 {
   display: flex;
   flex-direction: column;
   margin-top: -10px;
@@ -842,7 +840,6 @@ ul {
     color: #7f8cff;
   }
 
-  /*work section*/
   .work {
     display: grid;
     display: flex;
@@ -915,7 +912,6 @@ ul {
     margin-left: -5.4rem;
   }
 
-  /*About section*/
   .about-me {
     display: grid;
     flex-direction: row;
@@ -1034,7 +1030,7 @@ ul {
     height: 8rem;
   }
 
-  .css-logo{
+  .css-logo {
     height: 4.5rem;
     width: 4.4rem;
   }
@@ -1075,7 +1071,6 @@ ul {
     margin-top: -1rem;
   }
 
-  /*contact section*/
   .contact-form {
     width: 100%;
     background-size: cover;

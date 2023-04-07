@@ -201,3 +201,19 @@ introduction-1 {
   flex-grow: 0;
   color: #344563;
 }
+
+.languages-list {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0;
+  gap: 8px;
+  width: 203px;
+  height: 20px;
+  list-style: none;
+  order: 2;
+  margin-top: -130px;
+  margin-bottom: 0;
+  margin-left: -90px;
+  margin-right: 0;
+}

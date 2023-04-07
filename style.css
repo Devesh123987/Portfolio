@@ -778,6 +778,16 @@ form{
     top: 134px;
   }
 
+  .connect {
+    margin-top: -1px; 
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #7f8cff;
+  }
+
 
 
 

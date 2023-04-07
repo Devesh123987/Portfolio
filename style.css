@@ -730,4 +730,23 @@ form{
     line-height: 20px;
     background-color: transparent;
   }
+
+  .app-header {
+    display: flex;
+  }
+
+  .humberger .ossam{
+    display: flex;
+  }
+
+  .menu {
+    display: flex !important;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: 20px;
+    gap: 15%;
+  }
+
+
+
 }

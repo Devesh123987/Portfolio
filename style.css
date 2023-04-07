@@ -22,7 +22,7 @@ body {
   align-items: center;
 }
 
-.humbourger {
+.humberger {
   height: 12px;
   width: 18px;
   left: 3px;
@@ -30,7 +30,7 @@ body {
   color: rgba(96, 112, 255, 1);
 }
 
-.app-header {
+.header {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -45,7 +45,7 @@ body {
   display: none !important;
 }
 
-.header-ossam {
+.header-section {
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -58,7 +58,7 @@ body {
   height: 44.88rem;
 }
 
-.narson {
+.devesh {
   display: flex;
   font-family: Poppins, sans-serif;
   font-size: 48px;
@@ -128,4 +128,10 @@ introduction-1 {
   opacity: 0.5;
 }
 
-
+/* Work Section*/
+work-section{
+  background: #e5e5e5;
+  display: grid;
+  grid-template-columns: 33.333%;
+  margin-top: 6rem;
+}

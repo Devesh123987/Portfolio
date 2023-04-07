@@ -223,10 +223,7 @@ body {
   list-style: none;
   order: 2;
   margin-top: 50px;
-  margin-bottom: 0px;
-  margin-left: 0px;
-  margin-right: 0px;
-}
+  }
 
 .html {
   display: flex;
@@ -294,9 +291,7 @@ body {
   height: 48px;
   width: 127.04px;
   bottom: 10px;
-  margin-left: 0px;
   margin-top: 50px;
-  padding: 0px;
   gap: 10px;
   letter-spacing: 0.48px;
   line-height: 24px;
@@ -364,12 +359,10 @@ body {
   font-style: normal;
   font-size: 16px;
   font-weight: 700;
-  margin-left: 0px;
   margin-right: 109px;
   padding-top: 10px;
   margin-top: -20px;
   line-height: 24px;
-  flex-grow: 0px;
   overflow-x: hidden;
   color: #7f8cff;
 }
@@ -879,7 +872,7 @@ ul {
     flex-direction: column;
     justify-content: space-between;
     padding-left: 2%;
-    padding-right:10px;
+    padding-right: 10px;
     margin-left: 10%;
     width: 50%;
     margin-top: 5rem;

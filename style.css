@@ -1007,6 +1007,10 @@ form{
     background-image: url(image/contact-form-background.svg);
   }
 
+  .contact-container {
+    width: 100%;
+  }
+
 
 
 

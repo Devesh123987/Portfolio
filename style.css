@@ -1030,6 +1030,16 @@ form{
     border-radius: 0;
   }
 
+  .contact-submit {
+    margin-left: 30%;
+    border: none;
+  }
+
+  .contact-submit:hover {
+    background-color: #2230d2;
+  }
+}
+
 
 
 

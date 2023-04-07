@@ -567,6 +567,22 @@ socialmedia-2 {
   list-style-type: none;
 }
 
+.frameworks-text {
+  display: flex;
+  position: absolute;
+  align-items: center;
+  height: 24px;
+  left: 50px;
+  right: 78px;
+  margin-top: -1px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000;
+}
+
 
 
 

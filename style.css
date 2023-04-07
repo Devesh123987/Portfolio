@@ -538,6 +538,14 @@ socialmedia-2 {
   flex-grow: 0;
 }
 
+.css-logo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 8px;
+  margin-left: 10px;
+}
+
 
 
 

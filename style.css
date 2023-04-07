@@ -346,3 +346,22 @@ introduction-1 {
   flex-grow: 0;
   color: #344563;
 }
+
+.connection2 {
+  display: flex;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-size: 16px;
+  font-weight: 700;
+  margin-left: -80px;
+  margin-right: 109px;
+  padding-top: 10px;
+  margin-top: -20px;
+  line-height: 24px;
+  flex-grow: 0;
+  overflow-x: hidden;
+  color: #7f8cff;
+}
+

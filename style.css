@@ -431,5 +431,13 @@ socialmedia-2 {
   margin-right: 70px;
 }
 
+.down-arrow {
+  position: absolute;
+  margin-top: 30px;
+  margin-right: -70px;
+  margin-left: 200px;
+  color: #5e6c84;
+}
+
 
 

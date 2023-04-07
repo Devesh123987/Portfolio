@@ -478,6 +478,32 @@ socialmedia-2 {
   margin-left: 10px;
 }
 
+.js-text {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  height: 24px;
+  margin-left: 70px;
+  margin-top: -35px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 20px;
+  color: #253858;
+}
+
+.html2 {
+  width: 330px;
+  height: 66.72px;
+  background: #f7f7f9;
+  border-radius: 8px;
+  flex: none;
+  flex-grow: 0;
+  margin-top: 8px;
+  margin-left: 40px;
+}
+
 
 
 

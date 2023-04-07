@@ -863,6 +863,19 @@ form{
     order: 2;
   }
 
+  /* About section */
+
+  .about-me {
+    display: grid;
+    flex-direction: row;
+    width: 100%;
+    height: 90vh;
+    padding: 56px 14px 0 16px;
+  }
+
+
+
+
 
 
 

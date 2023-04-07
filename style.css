@@ -527,6 +527,17 @@ socialmedia-2 {
   color: #253858;
 }
 
+.css2 {
+  width: 330px;
+  height: 66.72px;
+  background: #f7f7f9;
+  border-radius: 8px;
+  margin-top: 8px;
+  margin-left: 40px;
+  flex: none;
+  flex-grow: 0;
+}
+
 
 
 

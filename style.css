@@ -979,6 +979,20 @@ form{
     margin-top: 6.2rem;
   }
 
+  .right-arrow {
+    margin-left: 40rem;
+  }
+
+  .separator-bottom {
+    margin-left: -32rem;
+    margin-top: 105px;
+    height: 10px;
+    width: 684px;
+    left: 0;
+    top: 71px;
+  }
+
+
 
 
 

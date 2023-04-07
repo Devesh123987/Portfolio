@@ -177,3 +177,13 @@ introduction-1 {
   order: 0;
   flex-grow: 0;
 }
+
+.frame2-img {
+  width: 236px;
+  height: 32px;
+  padding: 0.5rem;
+  margin-top: -30px;
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-left: -50px;
+}

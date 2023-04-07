@@ -315,3 +315,19 @@ introduction-1 {
   gap: 12px;
   margin: 96px 6px 6px 6px;
 }
+
+.about-text {
+  display: flex;
+  height: 35px;
+  width: 327px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 52px;
+  text-align: left;
+  align-items: center;
+  flex: none;
+  flex-grow: 0;
+  color: #172b4d;
+}

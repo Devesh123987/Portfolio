@@ -714,9 +714,20 @@ form{
   color: #172b4d;
 }
 
+/*Desktop version*/
 
+@media screen and (min-width: 768px) {
+  body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow-x: hidden;
+  }
 
-
-
-
-
+  .logo {
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 20px;
+    background-color: transparent;
+  }
+}

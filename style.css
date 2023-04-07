@@ -820,7 +820,7 @@ form{
     border-radius: 8px;
   }
 
-  .snap1 {
+  .snap {
     order: 2;
   }
 
@@ -832,6 +832,11 @@ form{
     margin-left: 10%;
     width: 50%;
     margin-top: 5rem;
+  }
+
+  .tonic {
+    margin-top: -15rem;
+    margin-left: -5.5rem;
   }
 
 

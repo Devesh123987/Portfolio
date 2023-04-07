@@ -439,5 +439,18 @@ socialmedia-2 {
   color: #5e6c84;
 }
 
+.languages-container {
+  display: flex;
+  flex-direction: column;
+  flex: none;
+  flex-grow: 0;
+  align-items: center;
+  padding: 12px;
+  gap: 12px;
+  width: 327px;
+  height: 248.15px;
+}
+
+
 
 

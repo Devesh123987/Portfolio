@@ -912,6 +912,11 @@ form{
     margin-left: 40rem;
   }
 
+  .languages-container {
+    display: flex;
+    flex-direction: row;
+  }
+
 
 
 

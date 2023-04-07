@@ -512,6 +512,21 @@ socialmedia-2 {
   margin-left: 10px;
 }
 
+.html-text {
+  display: flex;
+  position: absolute;
+  align-items: center;
+  height: 24px;
+  margin-left: 70px;
+  margin-top: -35px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 20px;
+  color: #253858;
+}
+
 
 
 

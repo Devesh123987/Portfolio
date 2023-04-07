@@ -820,6 +820,21 @@ form{
     border-radius: 8px;
   }
 
+  .snap1 {
+    order: 2;
+  }
+
+  .work-ossam {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-left: 2%;
+    margin-left: 10%;
+    width: 50%;
+    margin-top: 5rem;
+  }
+
+
 
 
 

@@ -129,9 +129,26 @@ introduction-1 {
 }
 
 /* Work Section*/
-work-section{
+.work-section{
   background: #e5e5e5;
   display: grid;
   grid-template-columns: 33.333%;
   margin-top: 6rem;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px;
+  gap: 12px;
+  background: #fff;
+  border: 1px solid #dfe1e6;
+  border-radius: 16px;
+  width: 327px;
+  height: 552px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 6px;
 }

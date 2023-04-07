@@ -899,6 +899,15 @@ form{
     margin-left: 10%;
   }
 
+  .skill {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    float: right;
+    margin-left: 35rem;
+    margin-top: -45rem;
+  }
+
 
 
 

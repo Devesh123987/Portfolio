@@ -760,6 +760,15 @@ form{
     text-align: center;
   }
 
+  .header-section {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding-left: 10%;
+  }
+
+
+
 
 
 }

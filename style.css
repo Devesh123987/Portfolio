@@ -936,6 +936,25 @@ form{
     width: 4.4rem;
   }
 
+  .html2 {
+    display: flex;
+    flex-direction: column;
+    margin-top: -0.1rem;
+    width: 7.5rem;
+    height: 8rem;
+  }
+
+  .html-logo {
+    height: 4.5rem;
+    width: 4.4rem;
+  }
+
+  .html-text {
+    align-self: center;
+    margin-top: 5.8rem;
+    margin-left: -2.69rem;
+  }
+
 
 
 

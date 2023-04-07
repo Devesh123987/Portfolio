@@ -105,4 +105,18 @@ introduction-1 {
   overflow-x: hidden;
 }
 
+.socialmedia {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex: none;
+  flex-grow: 0;
+  list-style: none;
+  width: 10.636rem;
+  margin-left: -25px;
+  margin-top: 1px;
+  gap: 8px;
+  order: 3;
+}
+
 

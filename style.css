@@ -416,3 +416,20 @@ socialmedia-2 {
   color: #fff;
 }
 
+.languages {
+  display: flex;
+  align-items: center;
+  height: 24px;
+  left: 12px;
+  right: 78px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  margin-left: -130px;
+  margin-right: 70px;
+}
+
+
+

@@ -955,6 +955,25 @@ form{
     margin-left: -2.69rem;
   }
 
+  .css2 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 0.021rem;
+    width: 7.5rem;
+    height: 8rem;
+  }
+
+  .css-logo {
+    height: 4.5rem;
+    width: 4.4rem;
+  }
+
+  .css-text {
+    align-self: center;
+    margin-top: 5.5rem;
+    margin-left: -3.4rem;
+  }
+
 
 
 

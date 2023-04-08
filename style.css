@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
-
+  
 * {
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
@@ -17,13 +17,12 @@ body {
   line-height: 20px;
   text-align: center;
   color: #6070ff;
-  width: 76px;
-  height: 20px;
+   height: 20px;
   text-decoration: none;
   align-items: center;
 }
 
-.humbourger {
+.humburger {
   height: 12px;
   width: 18px;
   left: 13px;
@@ -291,7 +290,7 @@ body {
   height: 48px;
   width: 127.04px;
   bottom: 10px;
-  margin-top: 50px;
+  margin-top: 40px;
   gap: 10px;
   letter-spacing: 0.48px;
   line-height: 24px;
@@ -768,7 +767,7 @@ ul {
     display: flex;
   }
 
-  .humbourger {
+  .humburger {
     display: none;
   }
 
@@ -850,10 +849,11 @@ ul {
     padding: 24px;
     gap: 46px;
     background: #fff;
-    border: 1px solid #dfe1e6;
+    border: 2px solid #dfe1e6;
     margin-top: 100px;
-    height: 60vh;
-    width: 100%;
+    margin-left: 170px;
+    height: 496px;
+    width: 1156px;
     border-radius: 24px;
   }
 
@@ -884,14 +884,14 @@ ul {
   }
 
   .frame2-img {
-    margin-top: -1rem;
+    margin-top: -3rem;
     margin-left: -5.7rem;
     width: 300px;
     height: 80px;
   }
 
   .description {
-    margin-top: -0.25rem;
+    margin-top: -3rem;
     width: 85%;
     margin-left: -5.3rem;
   }
@@ -1101,7 +1101,7 @@ ul {
   }
 
   #contact-submit {
-    margin-left: 25%;
+    margin-left: 32%;
     width: 32%;
     height: 50px;
     margin-top: -10px;

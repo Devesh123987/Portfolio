@@ -764,7 +764,7 @@ ul {
     transition: width 2s, height 2s, background-color 2s, rotate 2s;
     rotate: 360deg;
   }
-  
+
   .app-header {
     display: flex;
   }

@@ -85,7 +85,7 @@ TABLE OF CONTENTS -->
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](Coming soon)
+- [Live Demo Link](https://devesh123987.github.io/Portfolio/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

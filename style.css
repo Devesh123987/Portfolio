@@ -893,11 +893,11 @@ ul {
     transition: transform 1s;
   }
 
-  .frame2-img img{
+  .sary {
     transition: transform 1s;
   }
 
-  .frame2-img img:hover{
+  .sary:hover {
     transform: scale(1.05);
   }
 

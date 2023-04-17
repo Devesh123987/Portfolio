@@ -747,7 +747,7 @@ ul {
   color: #172b4d;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 760px) {
   body {
     margin: 0;
     padding: 0;

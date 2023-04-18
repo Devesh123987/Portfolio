@@ -75,9 +75,15 @@ body {
 }
 
 .ambony[cancle-visibility="true"] {
-  background-image: url(./image/Icon-Cancel.svg);
+  background-image: url(image/Icon-Cancel.svg);
   background-repeat: no-repeat;
   background-position: center;
+}
+
+
+
+.ambony-cancle {
+  display: none;
 }
 
 nav ul {

@@ -101,6 +101,10 @@ nav ul li a {
   color: #fff;
 }
 
+ul {
+  list-style: none;
+}
+
 .header-ambony {
   display: flex;
   justify-content: center;

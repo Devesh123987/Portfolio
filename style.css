@@ -36,6 +36,7 @@ body {
   justify-content: space-between;
   align-items: center;
   flex-direction: row;
+  position:fixed;
   background-image: url("image/header-image.png");
   background-color: rebeccapurple;
   width: 100%;
@@ -75,7 +76,7 @@ body {
 }
 
 .ambony[cancle-visibility="true"] {
-  background-image: url(image/Icon-Cancel.svg);
+  background-image: url(image/close_Icon.png);
   background-repeat: no-repeat;
   background-position: center;
 }

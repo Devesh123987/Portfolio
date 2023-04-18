@@ -1,11 +1,23 @@
-const humburger = document.getElementById('humburger');
-const mainMenu = document.getElementById('main-menu');
-const closeMenu = document.getElementById('item-close');
+const navMenu = document.querySelector('.menu');
+const menuIcon = document.querySelector('.ambony');
+const menuLinks = document.querySelectorAll('.menu-item');
 
-humburger.addEventListner('click', () => mainMenu.classList.tonggle('menu--show'));
-humburger.addEventListner('click', () => { humburger.style.display = 'none'; });
-closeMenu.addEventListner('click', () => { humburger.style.display = 'flex'; });
-closeMenu.addEventListner('click', () => mainMenu.classList.tonggle('menu--show'));
-mainMenu.addEventListner('click', () => mainMenu.classList.tonggle('menu--show'));
-mainMenu.addEventListner('click', () => { humburger.style.display = 'flex'; });
-closeMenu.addEventListner('click', () => mainMenu.classlist.toggle('main--shoe'));
+menuIcon.addEventListener('click', () => {
+  const visibilityMenu = navMenu.getAttribute('item-visibility');
+  const visibilityIcon = menuIcon.getAttribute('cancle-visibility');
+
+  if (visibilityMenu === 'false' && visibilityIcon === 'false') {
+    navMenu.setAttribute('item-visibility', 'true');
+    menuIcon.setAttribute('cancle-visibility', 'true');
+  } else {
+    navMenu.setAttribute('item-visibility', 'false');
+    menuIcon.setAttribute('cancle-visibility', 'false');
+  }
+});
+
+for (let i = 0; i < menuLinks.length; i += 1) {
+  menuLinks[i].addEventListener('click', () => {
+    navMenu.setAttribute('item-visibility', 'false');
+    menuIcon.setAttribute('cancle-visibility', 'false');
+  });
+}

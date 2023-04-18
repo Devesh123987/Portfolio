@@ -42,8 +42,19 @@ body {
   height: 48px;
 }
 
-.menu {
+/*.menu {
   display: none !important;
+}*/
+
+.menu{
+  background: rgbg(255, 255, 255, 1);
+  padding-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  border-bottom-left-radius: 2px;
+  transform: translateX(-400);;
+  transition: ransform .3s;
 }
 
 .header-ambony {

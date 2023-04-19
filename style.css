@@ -77,7 +77,7 @@ body {
 }
 
 .ambony[cancle-visibility="true"] {
-  background-image: url(image/close_Icon.png);
+  background-image: url(image/Icon.svg);
   background-repeat: no-repeat;
   background-position: center;
 }

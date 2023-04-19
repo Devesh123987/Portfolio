@@ -11,17 +11,17 @@
 
     <header class="app-header">
         <a href="#" class="logo">My Logo</a>
-        <nav class="ambony">
-            <a href="#"><img src="image/Union.svg" alt="humburger" class="humburger"></a>
-            <ul class="menu">
-                <li class="menu-item"><a href="#">Portfolio</a></li>
-                <li class="menu-item"><a href="#">About</a></li>
-                <li class="menu-item"><a href="#">Contact</a></li>
+        <nav class="ambony" cancle-visibility="false">
+            <a href="#"><img src="image/Union.svg" alt="humburger" class="humburger" id="humburger"></a>
+            <ul class="menu" item-visibility="false" >
+                <li><a class="menu-item" href="#work">Portfolio</a></li>
+                <li><a class="menu-item" href="#about">About</a></li>
+                <li><a class="menu-item" href="#contact">Contact</a></li>
             </ul>
         </nav>
     </header>
 
-    <section class="header-ambony">
+    <section class="header-ambony" id="head-ambony">
         <div class="header-container">
         <h1 class="narson">I'm Devesh.
             <br>Glad to see you!
@@ -64,7 +64,7 @@
 
     </section>
 
-    <section class="work">
+    <section class="work" id="work">
         <div class="card-container">
             <img class="sary" src="image/Snapshoot-Portfolio-desktop.svg" alt="Project Snapshoot" />
             
@@ -142,7 +142,7 @@
         </div>
     </section>
     
-    <section class="about-me">
+    <section class="about-me" id="about-me">
         <div class="about-container">
         <h3 class="about-text">About Myself</h3>
         <p class="summary">
@@ -220,7 +220,7 @@
         </div>
     </section>
 
-    <section class="contact-form">
+    <section class="contact-form" id="contact-form">
         <div class="contact-container">
             <h2 class="contact-me">Contact me</h2>
             <p class="contact-text">
@@ -245,6 +245,7 @@
             </ul>
         </form>
     </section>
-    
+    <script src="main.js"></script>
+
 </body>
 </html>

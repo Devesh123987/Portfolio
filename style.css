@@ -18,6 +18,7 @@ body {
   text-align: center;
   color: #6070ff;
   height: 20px;
+  margin-left: 20px;
   text-decoration: none;
   align-items: center;
 }
@@ -26,7 +27,7 @@ body {
   height: 12px;
   width: 18px;
   left: 13px;
-  top: 6px;
+  top: 100px;
   color: rgba(96, 112, 255, 1);
   margin-right: 30px;
 }
@@ -36,14 +37,72 @@ body {
   justify-content: space-between;
   align-items: center;
   flex-direction: row;
+  position: fixed;
   background-image: url("image/header-image.png");
   background-color: rebeccapurple;
   width: 100%;
   height: 48px;
 }
 
-.menu {
+/* .menu {
   display: none !important;
+} */
+
+/* .menu{
+  background: rgbg(255, 255, 255, 1);
+  padding-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  border-bottom-left-radius: 2px;
+  transform: translateX(-400);;
+  transition: ransform .3s;
+} */
+
+.menu {
+  position: fixed;
+  inset: 0 0 0 0;
+  background: rgba(65, 79, 202, 0.75);
+  backdrop-filter: blur(5px);
+  transform: translateX(100%);
+  transition: transform 300ms ease-in;
+}
+
+.menu[item-visibility="true"] {
+  transform: translateX(0%);
+}
+
+.ambony[cancle-visibility="true"] img {
+  opacity: 0;
+}
+
+.ambony[cancle-visibility="true"] {
+  background-image: url(image/cross.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.ambony-cancle {
+  display: none;
+}
+
+ul {
+  list-style: none;
+}
+
+nav ul {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  list-style: none;
+  padding-top: 10vw;
+}
+
+nav ul li a {
+  font-weight: 500;
+  font-size: 8.55vw;
+  text-decoration: none;
+  color: #fff;
 }
 
 .header-ambony {
@@ -71,7 +130,7 @@ body {
   height: 9.37rem;
   margin: 20px;
   color: #091e42;
-  font-style: bold;
+  font-style: normal;
   order: 0;
 }
 
@@ -192,7 +251,7 @@ body {
   height: 32px;
   margin-top: -30px;
   margin-bottom: 0;
-  margin-right: 25;
+  margin-right: 25px;
   margin-left: -7px;
 }
 
@@ -689,7 +748,7 @@ body {
   line-height: 52px;
   text-align: center;
   color: #fff;
-  font-style: bold;
+  font-style: normal;
   padding-top: 80px;
 }
 
@@ -711,10 +770,6 @@ form {
   flex-direction: column;
   align-items: center;
   margin-left: -39px;
-}
-
-ul {
-  list-style: none;
 }
 
 #name {
@@ -747,7 +802,7 @@ ul {
   color: #172b4d;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 760px) {
   body {
     margin: 0;
     padding: 0;
@@ -781,14 +836,14 @@ ul {
     gap: 15%;
   }
 
-  .menu-item a {
+  .menu-item {
     display: flex;
     color: #344563;
     text-decoration: none;
     font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 500;
-    font-size: 20px;
+    font-size: 100px;
     line-height: 20px;
     text-align: center;
   }

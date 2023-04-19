@@ -76,8 +76,8 @@ body {
   opacity: 0;
 }
 
-.ambony2[cancle-visibility="true"] {
-  background-image: url(image/Icon.svg);
+.ambony[cancle-visibility="true"] {
+  background-image: url(image/cross.svg);
   background-repeat: no-repeat;
   background-position: center;
 }

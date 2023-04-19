@@ -62,7 +62,7 @@ body {
 .menu {
   position: fixed;
   inset: 0 0 0 0;
-  background: rgba(50, 69, 248, 0.75);
+  background: rgba(65, 79, 202, 0.75);
   backdrop-filter: blur(5px);
   transform: translateX(100%);
   transition: transform 300ms ease-in;
